@@ -4,7 +4,7 @@
 This repo contains mindmaps that several of us at Google have created about the GCP (Google Cloud Platform) based on public information. Since all of the information is already in the public domain, feel free to use and share these mindmaps as you see fit.
 
 ### Why
-Creating the mindmaps helps us learn, and helps us explain a topic to others.  Since the mimdmaps have many direct links to official (public) documentaiton, anyone can instantly learn more about any particular area they find intersting.  
+Creating the mindmaps helps us learn, and helps us explain a topic to others.  Since the mimdmaps have many direct links to public documentaiton, anyone can quickly learn more about any particular area they find intersting.  
 
 ### Software
 We are using [Xmind software](https://www.xmind.app/) to create these mindmaps. These links below are read-only exports from the desktop Xmind software, however note that these will be open in any browser without having to install any software nor browser extensions.
