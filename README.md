@@ -26,4 +26,25 @@ Security and risk management platform for Google Cloud, which among other featur
 [(Link to mindmap version 2.00)](https://xmind.app/m/gvaMBn/)
 
 
+## Mindmap for Best Security Practices for Google Cloud
+This tries to be less product-centric and more opinionated on our publicly available best practices for each of the main pillars, as described by our security blueprint foundation whitepaper
+[(Link to version 1.14)](https://xmind.app/m/JXmJPU)
 
+
+## Mindmap for Sensitive Data Protection
+(Used to be DLP - Data Loss Prevention) 
+[(Link to version 1.14)](https://xmind.app/m/qnQvxn)
+
+
+## Mindmap about Google Cloud Security Products & Services
+Very product/service-centric, but useful to learn about everything we could offer our customers.
+[(Link to version 1.14)](https://xmind.app/m/pKddZb)
+
+
+## Mindmap for Google Cloud's AI/ML Products & Services
+It is very hard to keep this one "updated" given the rapid changes in the portfolio (let alone re-branding), but this gives you a good high-level view of that Google offers.
+[(Link to version 1.34)](https://xmind.app/m/WcQEGU/)
+
+
+##  Mandiant
+[(Link to version 1.08)](https://xmind.app/m/LMBHDE/)
