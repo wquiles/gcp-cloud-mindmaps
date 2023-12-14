@@ -47,4 +47,5 @@ It is very hard to keep this one "updated" given the rapid changes in the portfo
 
 
 ##  Mandiant
+High-level overview of how Mandiant product & services can help customers with regards to security & governance.
 [(Link to version 1.08)](https://xmind.app/m/LMBHDE/)
