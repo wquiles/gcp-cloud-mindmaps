@@ -21,7 +21,7 @@ If you have suggestions, fixes, improvements, or ideas to make these better or c
 
 # GCP (Google Cloud Platform) Mindmaps
 
-## GCP Service Command Center
+## GCP Security Command Center
 Security and risk management platform for Google Cloud, which among other features provides Asset discovery and inventory, threat prevention, and threat prevention. Credit to Keith M. for this awesome mindmap!.
 [(Link to mindmap version 2.00)](https://xmind.app/m/gvaMBn/)
 
