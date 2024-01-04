@@ -28,7 +28,7 @@ Security and risk management platform for Google Cloud, which among other featur
 
 ## Mindmap for Best Security Practices for Google Cloud
 This tries to be less product-centric and more opinionated on our publicly available best practices for each of the main pillars, as described by our security blueprint foundation whitepaper
-[(Link to version 1.14)](https://xmind.app/m/JXmJPU)
+[(Link to version 1.17)](https://xmind.app/m/AgfgBt)
 
 
 ## Mindmap for Sensitive Data Protection
